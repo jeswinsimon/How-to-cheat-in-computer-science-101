@@ -9,7 +9,7 @@ First, we need to learn exactly **HOW** the system catches us.
 The system used by most universities is called the ”Measure Of Software Similarity” or [MOSS](https://github.com/mikeizbicki/gitlearn/blob/master/scripts/moss/moss.txt) for short and was developed by Stanford. So yeah, it's pretty legit. 
 MOSS is a plagiarism detection algorithm that is exceptionally complex. In its raw form, it is an [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) that analyzes code line by line and compares it to other's work. Tricking it will be **VERY** hard. So, let's get started!
 
-####Overview
+#### Overview
 In order for you to successfully cheat the system, you will need to be **dedicated** and **perseverant**. 
 **You might as well just turn in the same file you got from your friend/online if you don't follow these steps**. 
 Don't worry though, we will take these steps together and once you finish you will be right on your path to becoming a master cheater.
@@ -21,11 +21,11 @@ Don't worry though, we will take these steps together and once you finish you wi
 4. Submit, relax and party it up
 
 
-##Lesson 0: Basics
+## Lesson 0: Basics
 
 Before starting, you will need to know a little bit of background about MOSS
 
-* MOSS has [*Whitespace insensitivity*](https://raw.githubusercontent.com/hkwan003/Moss_Documentation/phone/images/whitespaceInsensitivity.png?token=AGDMXlo6s-UroJWXydTUacT83HGzcr0Lks5WAiGhwA%3D%3D)
+* MOSS has [*Whitespace insensitivity*](https://raw.githubusercontent.com/hkwan003/Moss_Documentation/phone/images/whitespaceInsensitivity.png)
 
 	This means whitespaces won't help deceive MOSS. But, if you were smart you would already know that white space doesn't matter in source code.
 
