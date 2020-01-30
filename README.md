@@ -25,7 +25,7 @@ Don't worry though, we will take these steps together and once you finish you wi
 
 Before starting, you will need to know a little bit of background about MOSS
 
-* MOSS has *Whitespace insensitivity*[Image not found]("https://raw.githubusercontent.com/jeswinsimon/How-to-cheat-in-computer-science-101/master/images/whitespaceInsensitivity.png")
+* MOSS has *Whitespace insensitivity*![Image not found](https://raw.githubusercontent.com/jeswinsimon/How-to-cheat-in-computer-science-101/master/images/whitespaceInsensitivity.png)
 
 	This means whitespaces won't help deceive MOSS. But, if you were smart you would already know that white space doesn't matter in source code.
 
