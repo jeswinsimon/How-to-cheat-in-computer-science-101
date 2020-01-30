@@ -25,7 +25,7 @@ Don't worry though, we will take these steps together and once you finish you wi
 
 Before starting, you will need to know a little bit of background about MOSS
 
-* MOSS has [*Whitespace insensitivity*](https://raw.githubusercontent.com/hkwan003/Moss_Documentation/phone/images/whitespaceInsensitivity.png)
+* MOSS has [*Whitespace insensitivity*](https://raw.githubusercontent.com/jeswinsimon/master/Moss_Documentation/phone/images/whitespaceInsensitivity.png)
 
 	This means whitespaces won't help deceive MOSS. But, if you were smart you would already know that white space doesn't matter in source code.
 
